@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Olga Lucia
+ * @author Andres, Manuel, Harold. 
  */
 public class InterfazAscensor extends javax.swing.JFrame {
 
